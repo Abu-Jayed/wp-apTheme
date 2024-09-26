@@ -1,0 +1,18 @@
+/* 
+===================
+Theme Name: aj Theme - best multipurpose theme
+Theme URI: https://abujayed.com/
+Version: 1.0.0
+Author: abujayed
+Author URI: https://abujayed.com
+Text Domain: abujayed
+Description: I am learning wordpress theme development.
+Tags: multipupose, listing, blog, header, footer, aj, ajtheme, aj-theme, abujayed, 
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+===================
+*/
+
+body {
+  background-color: burlywood;
+}
